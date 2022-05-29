@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya @sadityakumar9211 on GitHub
-- 👀 I’m interested in Cyber security and Ethical Hacking.
-- 🌱 I’m currently learning web development, python, JavaScript, C++
+- 👀 I’m interested in Cyber security, Blockchain, Web Development.
+- 🌱 I’m currently learning Blockchain.
 - 📫 You can reach me on Twitter @sadityakumar921
 
 <!---
