@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber security, Blockchain, Web Development.
 - 🌱 I’m currently learning Blockchain.
 - 💼 My Portfolio Website: [saditya9211.me](https://saditya9211.me) 
-- 📫 You can reach me on Twitter @sadityakumar921
+- 📫 You can reach me on Twitter [@sadityakumar921](https://twitter.com/sadityakumar921)
 
 <!---
 sadityakumar9211/sadityakumar9211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
