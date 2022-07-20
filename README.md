@@ -1,4 +1,25 @@
 - 👋 Hi, I’m Aditya @sadityakumar9211 on GitHub
+- 🍳 I am a Full Stack Web3 Developer.
+- 👀 I’m interested in Blockchain, Web Development (MERN) and Cryptography.
+- 🌱 I’m currently learning Blockchain Technology.
+  
+  
+### 👨‍💻 My Web3 Tech Stack
+  - Chain: **EVM compatible chains**
+  - Smart Contract Development Environment: **Hardhat**
+  - Oracle: **Chainlink**
+  - Network RPC URL: **Alchemy**
+  - Indexing: **The Graph · Moralis** 
+  - Hosting: **IPFS · Fleek**
+  - Other complementary tools and packages:- 
+    - **Ethers · Waffle · openzeppelin · apollo · web3uikit**
+  - Frontend Technology
+    - **NextJS · ReactJS · TailwindCSS**
+  - Backend Technology
+    - **Node JS · JavaScript**
+
+
+
 - 👀 I’m interested in Blockchain, Web Development (MERN) and Cryptography.
 - 🌱 I’m currently learning Blockchain Technology.
 - 💼 My Portfolio Website: [saditya9211.me](https://saditya9211.me) 
