@@ -25,7 +25,7 @@
 - 💼 My Portfolio Website: [saditya9211.me](https://saditya9211.me) 
 - 📫 You can reach me on Twitter [@sadityakumar921](https://twitter.com/sadityakumar921)
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadityakumar9211)](https://github.com/anuraghazra/github-readme-stats)
+[![My's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadityakumar9211)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sadityakumar9211/sadityakumar9211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
