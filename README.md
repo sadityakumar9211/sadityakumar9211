@@ -13,9 +13,9 @@
   - Hosting: **IPFS · Fleek · Vercel**
   - Other complementary tools and packages:- 
     - **Ethers · Waffle · openzeppelin · apollo · web3uikit**
-  - Frontend Technology
+  - Frontend Framework and Library
     - **NextJS · ReactJS · TailwindCSS**
-  - Backend Technology
+  - Backend Environment
     - **Node JS · JavaScript**
 
 
