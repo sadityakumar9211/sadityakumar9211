@@ -10,7 +10,7 @@
   - Oracle: **Chainlink**
   - Network RPC URL: **Alchemy**
   - Indexing: **The Graph · Moralis** 
-  - Hosting: **IPFS · Fleek**
+  - Hosting: **IPFS · Fleek · Vercel**
   - Other complementary tools and packages:- 
     - **Ethers · Waffle · openzeppelin · apollo · web3uikit**
   - Frontend Technology
