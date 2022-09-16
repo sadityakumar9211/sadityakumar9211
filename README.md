@@ -22,7 +22,7 @@
 
 - 📫 Reach me at  **sadityakumar9211@gmail.com**
 
-- 📄 Take a look at my Resume · [https://drive.google.com/saditya9211/resume](https://drive.google.com/file/d/1_OgHuXc6PQO9mpRNFwJMAyT3qBEpw9PF/view?usp=sharing)
+- 📄 Take a look at my Resume · [https://drive.google.com/saditya9211/resume](https://drive.google.com/file/d/10dBix-X7O5pUWe4FH47KslTK7KQubW-5/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
