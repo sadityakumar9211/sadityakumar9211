@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, this's Aditya Kumar Singh</h1>
+<h1 align="center">Hi <img width="50px" height="50px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" />, I'm Aditya Kumar Singh</h1>
 <h3 align="center">A passionate Full-Stack Web3 developer</h3>
 <h4 align="center">Hands on exprience in MERN web2 development</h4>
 
