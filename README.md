@@ -67,6 +67,7 @@
 [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sadityakumar9211&theme=react-dark)](https://github.com/sadityakumar9211/github-readme-activity-graph)
 </div>
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 
 
