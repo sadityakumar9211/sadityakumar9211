@@ -67,8 +67,12 @@
 [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sadityakumar9211&theme=react-dark)](https://github.com/sadityakumar9211/github-readme-activity-graph)
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <p align="center"><img src="https://github.com/sadityakumar9211/sadityakumar9211/blob/output/github-contribution-grid-snake.svg" alt="sadityakumar9211 contribution snake graph" /></p>
+</picture>
 
-<p align="center"><img src="https://github.com/sadityakumar9211/sadityakumar9211/blob/output/github-contribution-grid-snake.gif" alt="sadityakumar9211 contribution snake graph" /></p>
+
 
 
 <!---
