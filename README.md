@@ -38,6 +38,10 @@
 <a href="https://medium.com/@sadityakumar9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sadityakumar9211" height="30" width="40" /></a>
 </p>
 
+**Public Key**: [Download here](https://keys.openpgp.org/search?q=sadityakumar9211%40gmail.com) and after downloading verify the fingerprint.   
+**My Public key fingerprint**: _A8D3 2AF4 1187 D90C 3E8C  6A2B DC23 ABF8 3750 8008_  
+**Email ID**: `c2FkaXR5YWt1bWFyOTIxMUBnbWFpbC5jb20=` base64 encoded.
+
 <h3 align="left">My Web3 🕸 Tech Stack</h3>
 
 - Chain: **EVM compatible chains**
