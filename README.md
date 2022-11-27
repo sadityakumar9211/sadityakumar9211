@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadityakumar9211&row=1&col=7&theme=onedark" alt="sadityakumar9211" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sadityakumar921" target="blank"><img src="https://img.shields.io/twitter/follow/sadityakumar921?logo=twitter&style=for-the-badge" alt="sadityakumar921" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saditya9211" target="blank"><img src="https://img.shields.io/twitter/follow/saditya9211?logo=twitter&style=for-the-badge" alt="saditya9211" /></a> </p>
 
 - 👀 I’m interested in *Web3 development*, *Cybersecurity*, *Cryptography*.
 
@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://saditya9211.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-social-media-agency-flaticons-lineal-color-flat-icons-3.png" height="40" width="40" /></a>
 <a href="https://dev.to/sadityakumar9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadityakumar9211" height="30" width="40" /></a>
-<a href="https://twitter.com/sadityakumar921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadityakumar921" height="30" width="40" /></a>
+<a href="https://twitter.com/saditya9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saditya9211" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saditya9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saditya9211" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14769639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14769639" height="30" width="40" /></a>
 <a href="https://medium.com/@sadityakumar9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sadityakumar9211" height="30" width="40" /></a>
