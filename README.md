@@ -68,7 +68,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadityakumar9211&theme=dracula&border_radius=6&hide_border=true&ring=00bbf9" alt="sadityakumar9211" /></p>
 
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sadityakumar9211&theme=react-dark)](https://github.com/sadityakumar9211/github-readme-activity-graph)
+
 </div>
 
 <picture>
