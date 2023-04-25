@@ -12,15 +12,19 @@
 
 - 🔭 I’m currently working on [MediChain: Decentralized Medical Record Keeping System](https://medichain.vercel.app)
 
-- 🌱 I’m currently learning **Blockchain Development & Data Structures and Algorithm**
+- 🌱 I’m currently exploring **Hyperledger & Solana**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/sadityakumar9211](https://github.com/sadityakumar9211)
+- 🤟 I'm currently learning **Rust**. 
 
-- 📝 I regularly write articles on [https://saditya9211.hashnode.dev/](https://saditya9211.hashnode.dev/)
+- 📖 I'm currently in my Junior year of college.
 
-- 💬 Ask me about **Go, Solidity, Hardhat, JavaScript, TypeScript**
+- 👨‍💻 All of my projects are available at [https://www.saditya9211.me/#projects](https://www.saditya9211.me/#projects)
 
-- 📫 Reach me at  **sadityakumar9211@gmail.com**
+- 📝 I regularly write articles about tech I use at [https://saditya9211.hashnode.dev/](https://saditya9211.hashnode.dev/)
+
+- 💬 Ask me about **Go, Solidity, TypeScript**
+
+- 📫 Reach out to me at  **sadityakumar9211@gmail.com**
 
 - 📄 Take a look at my Resume · [https://bit.ly/ResumeAdityaSingh](https://bit.ly/ResumeAdityaSingh)
 
@@ -51,14 +55,14 @@
 - Smart Contract Development Environment: **Hardhat**
 - Oracle: **Chainlink**
 - Network RPC URL: **Alchemy**
-- Indexing: **The Graph · Moralis** 
-- Hosting: **IPFS · Fleek · Vercel**
+- Indexing: **The Graph · Moralis · WAGMI** 
+- Hosting: **IPFS · Fleek · Vercel · GCP**
 - Other complementary tools and packages:- 
   - **Ethers · Waffle · openzeppelin · apollo · web3uikit**
 - Frontend Framework and Library
   - **NextJS · ReactJS · TailwindCSS**
 - Backend Environment
-  - **Node JS · JavaScript**
+  - **Node JS · JavaScript · TypeScript · Go**
 
 
 <h3 align="left">Major Languages and Tools:</h3>
