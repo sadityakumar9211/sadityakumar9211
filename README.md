@@ -18,7 +18,7 @@
 
 - 📖 I'm currently in my Junior year of college.
 
-- 👨‍💻 All of my projects are available at [https://www.saditya.vercel.app/#projects](https://www.saditya.vercel.app/#projects)
+- 👨‍💻 All of my projects are available at [https://saditya.vercel.app/#projects](https://saditya.vercel.app/#projects)
 
 - 📝 I regularly write articles about tech I use at [https://saditya9211.hashnode.dev/](https://saditya9211.hashnode.dev/)
 
