@@ -45,8 +45,8 @@
   
 </p>
 
-**Public Key**: [Download here](https://keys.openpgp.org/search?q=sadityakumar9211%40gmail.com) and after downloading verify the fingerprint.   
-**My Public key fingerprint**: _A8D3 2AF4 1187 D90C 3E8C  6A2B DC23 ABF8 3750 8008_  
+**Public Key**: [Download here](https://keys.openpgp.org/search?q=sadityakumar9211@gmail.com) and after downloading verify the fingerprint.   
+**My Public key fingerprint**: _B795 597C 4F9A 2825 066B  DFD8 8470 1247 5024 6BFB_  
 **Email ID**: `c2FkaXR5YWt1bWFyOTIxMUBnbWFpbC5jb20=` base64 encoded.
 
 <h3 align="left">My Web3 🕸 Tech Stack</h3>
