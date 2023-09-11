@@ -21,7 +21,7 @@
 
 <!-- Twitter Follow Button -->
 <p align="left"> <a href="https://twitter.com/saditya9211" target="blank"><img src="https://img.shields.io/twitter/follow/saditya9211?logo=twitter&style=for-the-badge" alt="saditya9211" /></a> </p>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 - 👀 I’m interested in *Backend Development*, *Blockchain*, *Cybersecurity*
 
@@ -30,6 +30,8 @@
 - 🌱 I’m currently exploring **Hyperledger & gRPC**
 
 - 🤟 I'm currently learning **Rust**
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 📖 I'm currently in my senior year of college
 
