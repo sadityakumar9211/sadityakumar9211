@@ -1,7 +1,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Aditya</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Aditya</h1></summary>
   </ul>
 </div>
 
@@ -56,7 +56,7 @@
 
 <h3 align="center">For Extra Careful souls out there...</h3>
 
-If you wanna be extra careful while communicating you can send me an encrypted file (encrypted any with my public key) via any of the channels mentioned above or just email me at `c2FkaXR5YWt1bWFyOTIxMUBnbWFpbC5jb20=` (base64 encoded). You can find my public key details below.
+If you wanna be extra careful while communicating you can send me an encrypted file (encrypted with my public key) via any of the channels mentioned above or just email me at `c2FkaXR5YWt1bWFyOTIxMUBnbWFpbC5jb20=` (base64 encoded). You can find my public key details below.
 
 **Public Key**: [Download here](https://keys.openpgp.org/search?q=sadityakumar9211@gmail.com) and after downloading verify the fingerprint.  
 **My Public key fingerprint**: _E5CC ECD4 D61B EB29 FA3E CB28 B0B5 FE03 D25B E136_
@@ -197,7 +197,6 @@ If you wanna be extra careful while communicating you can send me an encrypted f
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">My GitHub Stats</h2>
 
-
 <p align="center">&nbsp;<img src="https://github-readme-stats-test-mu.vercel.app/api?username=sadityakumar9211&theme=tokyonight&count_private=true&border_radius=6&show_icons=true&locale=en&cache_seconds=7200&hide_border=true" alt="sadityakumar9211" /></p>
 
 <h3 align="center">Spotify Playing 🎧</h3> 
@@ -211,7 +210,6 @@ If you wanna be extra careful while communicating you can send me an encrypted f
 -->
 
 ---
-
 
 <!---
 sadityakumar9211/sadityakumar9211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
