@@ -1,4 +1,12 @@
-<h1 align="center">Hi <img width="50px" height="50px" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" />, I'm Aditya Kumar Singh</h1>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Aditya</h1></summary>
+  </ul>
+</div>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h3 align="center">A passionate Full-Stack Web3 developer</h3>
 <h4 align="center">Hands on exprience in MERN web2 development</h4>
 
@@ -34,10 +42,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://saditya9211.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-social-media-agency-flaticons-lineal-color-flat-icons-3.png" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/saditya9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saditya9211" height="30" width="40" /></a>
+<a href="https://adityas.net" target="blank"><img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-social-media-agency-flaticons-lineal-color-flat-icons-3.png" height="40" width="40" /></a>
 <a href="https://dev.to/sadityakumar9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadityakumar9211" height="30" width="40" /></a>
 <a href="https://twitter.com/saditya9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saditya9211" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saditya9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saditya9211" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14769639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14769639" height="30" width="40" /></a>
 <a href="https://medium.com/@sadityakumar9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sadityakumar9211" height="30" width="40" /></a>
  
@@ -62,7 +70,7 @@
 - Frontend Framework and Library
   - **NextJS · ReactJS · TailwindCSS**
 - Backend Environment
-  - **Node JS · JavaScript · TypeScript · Go**
+  - **Go · JavaScript · TypeScript · Node JS**
 
 
 <h3 align="left">Major Languages and Tools:</h3>
