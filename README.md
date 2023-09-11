@@ -172,7 +172,7 @@ If you wanna be extra careful while communicating you can send me an encrypted f
 <img align="right" width=450px height=450px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <ul>
         <li>Chain: <strong>EVM compatible chains</strong></li>
-        <li>Smart Contract Development Environment: <strong>Hardhat</strong></li>
+        <li>Smart Contract Dev Env: <strong>Hardhat</strong></li>
         <li>Oracle: <strong>Chainlink</strong></li>
         <li>Network RPC URL: <strong>Alchemy</strong></li>
         <li>Indexing: <strong>The Graph · Moralis · WAGMI</strong></li>
