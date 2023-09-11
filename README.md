@@ -203,7 +203,7 @@ If you wanna be extra careful while communicating you can send me an encrypted f
 <h3 align="center">Spotify Playing 🎧</h3> 
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=6ikxzro127gmsvtf2ir49yqp4&redirect=true" target="blank">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=6ikxzro127gmsvtf2ir49yqp4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=6ikxzro127gmsvtf2ir49yqp4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
 </a>
 </p>
 
