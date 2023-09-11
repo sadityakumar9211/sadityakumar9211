@@ -119,11 +119,11 @@ If you wanna be extra careful while communicating you can send me an encrypted f
       <kbd>Data Science & AI</kbd>
       <br>
       <br>
-      <img title="matlab" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-      <img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LpzIaSNnMHiMZVFYSVb2rNs05e4R1-Afo4s8-YMM&s" />
-      <img width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" />
+      <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="Matlab"><img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /></a>
+      <a href="https://numpy.org/" target="_blank"><img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
+      <a href="https://pandas.pydata.org/" target="_blank"><img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>
+      <a href="https://scikit-learn.org/" target="_blank"><img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LpzIaSNnMHiMZVFYSVb2rNs05e4R1-Afo4s8-YMM&s" /></a>
+      <a href="https://www.anaconda.com/" target="_blank"><img width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" /></a>
     </kbd>
     <kbd>
       <kbd>System, Networking & Deployment</kbd>
