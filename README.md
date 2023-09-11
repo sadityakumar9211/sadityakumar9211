@@ -27,11 +27,12 @@
 
 - 🔭 I’m currently working on [MediChain: Decentralized Medical Record Keeping System](https://medichain.vercel.app)
 
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🌱 I’m currently exploring **Hyperledger & gRPC**
 
 - 🤟 I'm currently learning **Rust**
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 📖 I'm currently in my senior year of college
 
