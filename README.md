@@ -200,9 +200,13 @@ If you wanna be extra careful while communicating you can send me an encrypted f
 
 <p align="center">&nbsp;<img src="https://github-readme-stats-test-mu.vercel.app/api?username=sadityakumar9211&theme=tokyonight&count_private=true&border_radius=6&show_icons=true&locale=en&cache_seconds=7200&hide_border=true" alt="sadityakumar9211" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadityakumar9211&theme=tokyonight&border_radius=6&hide_border=true&ring=00bbf9" alt="sadityakumar9211" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadityakumar9211&theme=dracula&border_radius=6&hide_border=true&ring=00bbf9" alt="sadityakumar9211" /></p>
 
-</div>
+### Spotify Playing 🎧
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=6ikxzro127gmsvtf2ir49yqp4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=6ikxzro127gmsvtf2ir49yqp4&cover_image=true&theme=novatorem&show_offline=false&background_color=030303&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+
+---
+
 
 <!---
 sadityakumar9211/sadityakumar9211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
