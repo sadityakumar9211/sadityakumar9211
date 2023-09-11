@@ -22,11 +22,9 @@
 <!-- Twitter Follow Button -->
 <p align="left"> <a href="https://twitter.com/saditya9211" target="blank"><img src="https://img.shields.io/twitter/follow/saditya9211?logo=twitter&style=for-the-badge" alt="saditya9211" /></a> </p>
 
-
-- 👀 I’m interested in *Backend Development*, *Blockchain*, *Cybersecurity*
+- 👀 I’m interested in _Backend Development_, _Blockchain_, _Cybersecurity_
 
 - 🔭 I’m currently working on [MediChain: Decentralized Medical Record Keeping System](https://medichain.vercel.app)
-
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -42,10 +40,10 @@
 
 - 💬 Ask me about **Go, Python, TypeScript, Solidity**
 
-- 📫 Reach out to me at  **sadityakumar9211@gmail.com**
+- 📫 Reach out to me at **sadityakumar9211@gmail.com**
 
 - 📄 Have a look at my [Resume](https://adityas.net/resume)
-  
+
 <h2 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h2>
 <p align="center" margin-left="20px">
 <a href="https://linkedin.com/in/saditya9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saditya9211" height="40" width="40" /></a>
@@ -56,14 +54,12 @@
 <a href="https://medium.com/@sadityakumar9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sadityakumar9211" height="40" width="40" /></a> 
 </p>
 
-
 <h3 align="center">For Extra Careful souls out there...</h3>
 
-If you wanna be extra careful while communicating you can send me an encrypted file (encrypted any with my public key) via any of the channels mentioned above or just email me at `c2FkaXR5YWt1bWFyOTIxMUBnbWFpbC5jb20=` (base64 encoded). You can find my public key details below. 
+If you wanna be extra careful while communicating you can send me an encrypted file (encrypted any with my public key) via any of the channels mentioned above or just email me at `c2FkaXR5YWt1bWFyOTIxMUBnbWFpbC5jb20=` (base64 encoded). You can find my public key details below.
 
-**Public Key**: [Download here](https://keys.openpgp.org/search?q=sadityakumar9211@gmail.com) and after downloading verify the fingerprint.   
-**My Public key fingerprint**: _E5CC ECD4 D61B EB29 FA3E  CB28 B0B5 FE03 D25B E136_  
-
+**Public Key**: [Download here](https://keys.openpgp.org/search?q=sadityakumar9211@gmail.com) and after downloading verify the fingerprint.  
+**My Public key fingerprint**: _E5CC ECD4 D61B EB29 FA3E CB28 B0B5 FE03 D25B E136_
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">Languages and Tools</h2>
 <div>
@@ -81,15 +77,14 @@ If you wanna be extra careful while communicating you can send me an encrypted f
       <img width="40px" src="https://rust-lang.org/logos/rust-logo-512x512.png" /> 
       <img width="40px" src="https://bairesdev.mo.cloudinary.net/blog/2022/09/solidity-enum-example.png?tx=w_1920,q_auto" /> 
     </kbd>
-    <br>
-      <br>
     <kbd>
-      <kbd>Backend Frameworks</kbd>
+      <kbd>Backend</kbd>
       <br>
       <br>
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
       <img width="40px" src="https://1.bp.blogspot.com/-jkSmywQ57sA/Wer3KKSqgaI/AAAAAAAACc4/07TexMsBBI4v7WlVKo76YvxM3TvrMxIdwCLcBGAs/s640/express.js.png" />
       <img width="40px" src="https://github.com/gin-gonic/logo/blob/master/color.png?raw=true" />
+    </kbd>
     <kbd>
       <kbd>Frontend</kbd>
       <br>
@@ -215,11 +210,7 @@ If you wanna be extra careful while communicating you can send me an encrypted f
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadityakumar9211&theme=dracula&border_radius=6&hide_border=true&ring=00bbf9" alt="sadityakumar9211" /></p>
 
-
 </div>
-
-
-
 
 <!---
 sadityakumar9211/sadityakumar9211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
