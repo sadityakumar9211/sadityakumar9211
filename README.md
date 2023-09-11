@@ -7,51 +7,50 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">A passionate Full-Stack Web3 developer</h3>
-<h4 align="center">Hands on exprience in MERN web2 development</h4>
+<!-- Heading -->
+<h3 align="center">A passionate Software Developer</h3>
+<!-- Sub Heading -->
+<h4 align="center">Crafting Next Level Web Experiences</h4>
 
+<!-- Github Profile Views-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadityakumar9211&label=Profile%20views&color=0e75b6&style=flat" alt="sadityakumar9211" /> </p>
 
+<!-- GitHub Stats - Trophy -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadityakumar9211&row=1&col=7&theme=onedark" alt="sadityakumar9211" /></a> </p>
 
+<!-- Twitter Follow Button -->
 <p align="left"> <a href="https://twitter.com/saditya9211" target="blank"><img src="https://img.shields.io/twitter/follow/saditya9211?logo=twitter&style=for-the-badge" alt="saditya9211" /></a> </p>
 
-- 👀 I’m interested in *Web3 development*, *Cybersecurity*, *Cryptography*.
+- 👀 I’m interested in *Backend Development*, *Blockchain*, *Cybersecurity*
 
 - 🔭 I’m currently working on [MediChain: Decentralized Medical Record Keeping System](https://medichain.vercel.app)
 
-- 🌱 I’m currently exploring **Hyperledger & Solana**.
+- 🌱 I’m currently exploring **Hyperledger & gRPC**
 
-- 🤟 I'm currently learning **Rust**. 
+- 🤟 I'm currently learning **Rust**
 
-- 📖 I'm currently in my Junior year of college.
+- 📖 I'm currently in my senior year of college
 
-- 👨‍💻 All of my projects are available at [https://saditya.vercel.app/#projects](https://saditya.vercel.app/#projects)
+- 👨‍💻 Browse through my projects [here](https://adityas.net/#projects)
 
-- 📝 I regularly write articles about tech I use at [https://saditya9211.hashnode.dev/](https://saditya9211.hashnode.dev/)
+- 📝 Read through my [Blogs](https://saditya9211.hashnode.dev/)
 
-- 💬 Ask me about **Go, Solidity, TypeScript**
+- 💬 Ask me about **Go, Python, TypeScript, Solidity**
 
 - 📫 Reach out to me at  **sadityakumar9211@gmail.com**
 
-- 📄 Take a look at my Resume · [https://bit.ly/ResumeAdityaSingh](https://bit.ly/ResumeAdityaSingh)
-
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saditya9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saditya9211" height="30" width="40" /></a>
+- 📄 Have a look at my [Resume](https://adityas.net/resume)
+  
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">Connect with me</h2>
+<p align="center" margin-left="20px">
+<a href="https://linkedin.com/in/saditya9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saditya9211" height="40" width="40" /></a>
 <a href="https://adityas.net" target="blank"><img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-social-media-agency-flaticons-lineal-color-flat-icons-3.png" height="40" width="40" /></a>
-<a href="https://dev.to/sadityakumar9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadityakumar9211" height="30" width="40" /></a>
-<a href="https://twitter.com/saditya9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saditya9211" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14769639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14769639" height="30" width="40" /></a>
-<a href="https://medium.com/@sadityakumar9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sadityakumar9211" height="30" width="40" /></a>
- 
-  
-  
+<a href="https://dev.to/sadityakumar9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadityakumar9211" height="40" width="40" /></a>
+<a href="https://twitter.com/saditya9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saditya9211" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/14769639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14769639" height="40" width="40" /></a>
+<a href="https://medium.com/@sadityakumar9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sadityakumar9211" height="40" width="40" /></a> 
 </p>
+
 
 **Public Key**: [Download here](https://keys.openpgp.org/search?q=sadityakumar9211@gmail.com) and after downloading verify the fingerprint.   
 **My Public key fingerprint**: _E5CC ECD4 D61B EB29 FA3E  CB28 B0B5 FE03 D25B E136_  
