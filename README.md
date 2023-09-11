@@ -68,22 +68,22 @@ If you wanna be extra careful while communicating you can send me an encrypted f
       <kbd>Programming Languages</kbd>
       <br>
       <br>
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> 
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-      <img width="40px" src="https://rust-lang.org/logos/rust-logo-512x512.png" /> 
-      <img width="40px" src="https://bairesdev.mo.cloudinary.net/blog/2022/09/solidity-enum-example.png?tx=w_1920,q_auto" /> 
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /> 
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+      <img width="40px" height="40px" src="https://rust-lang.org/logos/rust-logo-512x512.png" /> 
+      <img width="40px" height="40px" src="https://bairesdev.mo.cloudinary.net/blog/2022/09/solidity-enum-example.png?tx=w_1920,q_auto" /> 
     </kbd>
     <kbd>
       <kbd>Backend</kbd>
       <br>
       <br>
-      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img width="40px" src="https://1.bp.blogspot.com/-jkSmywQ57sA/Wer3KKSqgaI/AAAAAAAACc4/07TexMsBBI4v7WlVKo76YvxM3TvrMxIdwCLcBGAs/s640/express.js.png" />
-      <img width="40px" src="https://github.com/gin-gonic/logo/blob/master/color.png?raw=true" />
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+      <img width="40px" height="40px" src="https://1.bp.blogspot.com/-jkSmywQ57sA/Wer3KKSqgaI/AAAAAAAACc4/07TexMsBBI4v7WlVKo76YvxM3TvrMxIdwCLcBGAs/s640/express.js.png" />
+      <img width="40px" height="40px" src="https://github.com/gin-gonic/logo/blob/master/color.png?raw=true" />
     </kbd>
     <kbd>
       <kbd>Frontend</kbd>
@@ -101,17 +101,17 @@ If you wanna be extra careful while communicating you can send me an encrypted f
       <kbd>Database</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
     </kbd>
     <kbd>
       <kbd>APIs Paradigms</kbd>
       <br>
       <br>
-      <img width="30px" src="https://grpc.io/img/logos/grpc-icon-color.png" />
-      <img width="30px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
-      <img width="30px" src="https://e7.pngegg.com/pngimages/860/943/png-clipart-representational-state-transfer-application-programming-interface-drupal-laravel-github-github-blue-text.png" />
+      <img width="40px" height="40px" src="https://grpc.io/img/logos/grpc-icon-color.png" />
+      <img width="40px" height="40px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" />
+      <img width="40px" height="40px" src="https://e7.pngegg.com/pngimages/860/943/png-clipart-representational-state-transfer-application-programming-interface-drupal-laravel-github-github-blue-text.png" />
     </kbd>
     <br>
     <br>
@@ -119,50 +119,50 @@ If you wanna be extra careful while communicating you can send me an encrypted f
       <kbd>Data Science & AI</kbd>
       <br>
       <br>
-      <img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-      <img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LpzIaSNnMHiMZVFYSVb2rNs05e4R1-Afo4s8-YMM&s" />
-      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" />
+      <img title="matlab" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+      <img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LpzIaSNnMHiMZVFYSVb2rNs05e4R1-Afo4s8-YMM&s" />
+      <img width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" />
     </kbd>
     <kbd>
       <kbd>System, Networking & Deployment</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-      <img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPvw_nBf-GGiepHWFvJ6ykNuOedJ8oKygRspSiO5e&s" />
-      <img width="30px" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" />
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+      <img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPvw_nBf-GGiepHWFvJ6ykNuOedJ8oKygRspSiO5e&s" />
+      <img width="40px" height="40px" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" />
       <img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBXXsUhwZHv5J5gAcvLN5rZ2v5mHRML8g9ZLJbp3Eh&s" />
     </kbd>
     <kbd>
       <kbd>Blockchain</kbd>
       <br>
       <br>
-      <img width="30px" src="https://repository-images.githubusercontent.com/66573241/e4a04d80-cd1c-11e9-8af2-786d342820bb" />
-      <img width="30px" src="https://logowik.com/content/uploads/images/ethereum3649.jpg" />
-      <img width="30px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" />
-      <img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrJUYz9fab9Sw80SHtxSA6-i556yZJ1_1kL7p8bs&s" />
-      <img width="30px" src="https://storage.googleapis.com/simplify-imgs/companies/d07a7740-1f35-46a0-9f6f-a96f813cd049/logo.png" />
-      <img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYiF7Z92dzVRGbeagECn5xjkV5MIr4vvLL_aNWRtTT3JstwIBaaleY-P13UB_IDKzKQe0&usqp=CAU" />
-      <img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNMoQaVxs0tkC4QPY4IyD-QMSAHz5S4qKoZPQZZjuj-A&s" />
+      <img width="40px" height="40px" src="https://repository-images.githubusercontent.com/66573241/e4a04d80-cd1c-11e9-8af2-786d342820bb" />
+      <img width="40px" height="40px" src="https://logowik.com/content/uploads/images/ethereum3649.jpg" />
+      <img width="40px" height="40px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" />
+      <img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrJUYz9fab9Sw80SHtxSA6-i556yZJ1_1kL7p8bs&s" />
+      <img width="40px" height="40px" src="https://storage.googleapis.com/simplify-imgs/companies/d07a7740-1f35-46a0-9f6f-a96f813cd049/logo.png" />
+      <img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYiF7Z92dzVRGbeagECn5xjkV5MIr4vvLL_aNWRtTT3JstwIBaaleY-P13UB_IDKzKQe0&usqp=CAU" />
+      <img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNMoQaVxs0tkC4QPY4IyD-QMSAHz5S4qKoZPQZZjuj-A&s" />
     </kbd>
     <kbd>
       <kbd>Terminal Scripts</kbd>
       <br>
       <br>
-      <img width="40px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" />
-      <img width="40px" src="https://cdn.pixabay.com/photo/2022/05/03/17/44/zsh-7172337_1280.png" />
+      <img width="40px" height="40px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" />
+      <img width="40px" height="40px" src="https://cdn.pixabay.com/photo/2022/05/03/17/44/zsh-7172337_1280.png" />
     </kbd>
     <kbd>
       <kbd>Others</kbd>
       <br>
       <br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" />
-      <img width="30px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-      <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+      <img width="40px" height="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" />
+      <img width="40px" height="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+      <img width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 
   </kbd>
   </p>
