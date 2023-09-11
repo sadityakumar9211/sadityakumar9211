@@ -46,7 +46,7 @@
 
 - 📄 Have a look at my [Resume](https://adityas.net/resume)
   
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">Connect with me</h2>
+<h2 align="center">Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"></h2>
 <p align="center" margin-left="20px">
 <a href="https://linkedin.com/in/saditya9211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saditya9211" height="40" width="40" /></a>
 <a href="https://adityas.net" target="blank"><img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-social-media-agency-flaticons-lineal-color-flat-icons-3.png" height="40" width="40" /></a>
