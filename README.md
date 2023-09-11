@@ -59,7 +59,7 @@
 
 <h3 align="center">For Extra Careful souls out there...</h3>
 
-If you wanna be extra careful while communicating you can send me an encrypted file (with my public key) via of the channels mentioned above or just email me at `c2FkaXR5YWt1bWFyOTIxMUBnbWFpbC5jb20=` (base64 encoded). You can find the public key details below. 
+If you wanna be extra careful while communicating you can send me an encrypted file (encrypted any with my public key) via any of the channels mentioned above or just email me at `c2FkaXR5YWt1bWFyOTIxMUBnbWFpbC5jb20=` (base64 encoded). You can find my public key details below. 
 
 **Public Key**: [Download here](https://keys.openpgp.org/search?q=sadityakumar9211@gmail.com) and after downloading verify the fingerprint.   
 **My Public key fingerprint**: _E5CC ECD4 D61B EB29 FA3E  CB28 B0B5 FE03 D25B E136_  
