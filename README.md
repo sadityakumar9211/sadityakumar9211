@@ -129,11 +129,11 @@ If you wanna be extra careful while communicating you can send me an encrypted f
       <kbd>System, Networking & Deployment</kbd>
       <br>
       <br>
-      <a href="https://www.mathworks.com/products/matlab.html" target="_blank" title="Matlab"><img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /></a>
-      <a href="https://numpy.org/" target="_blank"><img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /></a>
-      <a href="https://pandas.pydata.org/" target="_blank"><img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /></a>
-      <a href="https://openzeppelin.com/" target="_blank"><img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8LpzIaSNnMHiMZVFYSVb2rNs05e4R1-Afo4s8-YMM&s" /></a>
-      <a href="https://www.anaconda.com/" target="_blank"><img width="40px" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" /></a>
+      <a href="https://git-scm.com/" target="_blank"><img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></a>
+      <a href="https://www.docker.com/" target="_blank"><img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /></a>
+      <a href="https://nginx.com" target="_blank"><img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvPvw_nBf-GGiepHWFvJ6ykNuOedJ8oKygRspSiO5e&s" /></a>
+      <a href="https://aws.amazon.com/" target="_blank"><img width="40px" height="40px" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" /></a>
+      <a href="https://cloud.google.com/" target="_blank"><img width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBXXsUhwZHv5J5gAcvLN5rZ2v5mHRML8g9ZLJbp3Eh&s" /></a>
     </kbd>
     <kbd>
       <kbd>Blockchain</kbd>
