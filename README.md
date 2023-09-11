@@ -151,8 +151,8 @@ If you wanna be extra careful while communicating you can send me an encrypted f
       <kbd>Terminal Scripts</kbd>
       <br>
       <br>
-      <img width="40px" height="40px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" />
-      <img width="40px" height="40px" src="https://cdn.pixabay.com/photo/2022/05/03/17/44/zsh-7172337_1280.png" />
+      <img width="50px" height="30px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/bash_button_icon_151886.png" />
+      <img width="50px" height="40px" src="https://cdn.pixabay.com/photo/2022/05/03/17/44/zsh-7172337_1280.png" />
     </kbd>
     <kbd>
       <kbd>Others</kbd>
