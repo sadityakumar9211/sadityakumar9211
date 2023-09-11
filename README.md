@@ -169,7 +169,7 @@ If you wanna be extra careful while communicating you can send me an encrypted f
 </div>
 
 <h3 align="center">My Web3 🕸 Tech Stack</h3>
-<img align="right" width=450px height=450px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <ul>
         <li>Chain: <strong>EVM compatible chains</strong></li>
         <li>Smart Contract Dev Env: <strong>Hardhat</strong></li>
