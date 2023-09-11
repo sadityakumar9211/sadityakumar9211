@@ -179,26 +179,17 @@ If you wanna be extra careful while communicating you can send me an encrypted f
         <li>Hosting: <strong>IPFS · Fleek · Vercel · GCP</strong></li>
         <li>Other complementary tools and packages:
             <ul>
-                <li><strong>Ethers</strong></li>
-                <li><strong>Waffle</strong></li>
-                <li><strong>openzeppelin</strong></li>
-                <li><strong>apollo</strong></li>
-                <li><strong>web3uikit</strong></li>
+                <li><strong>Ethers, Waffle, Openzeppelin, Apollo, web3uikit</strong></li>
             </ul>
         </li>
         <li>Frontend Framework and Library:
             <ul>
-                <li><strong>NextJS</strong></li>
-                <li><strong>ReactJS</strong></li>
-                <li><strong>TailwindCSS</strong></li>
+                <li><strong>NextJS, ReactJS, TailwindCSS, zustand</strong></li>
             </ul>
         </li>
         <li>Backend Environment:
             <ul>
-                <li><strong>Go</strong></li>
-                <li><strong>JavaScript</strong></li>
-                <li><strong>TypeScript</strong></li>
-                <li><strong>Node JS</strong></li>
+                <li><strong>Node JS, TypeScript, JavaScript, TypeScript</strong></li>
             </ul>
         </li>
     </ul>
