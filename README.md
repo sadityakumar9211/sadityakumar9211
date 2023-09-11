@@ -196,10 +196,13 @@ If you wanna be extra careful while communicating you can send me an encrypted f
 <div>
 
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">My GitHub Stats</h2>
+![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=saditya9211&show_icons=true&theme=tokyonight) | 
+![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadityakumar9211&theme=tokyonight) |
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=saditya9211&show_icons=true&theme=tokyonight" alt="sadityakumar9211" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadityakumar9211&theme=tokyonight" alt="sadityakumar9211" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats-test-mu.vercel.app/api?username=sadityakumar9211&theme=dracula&count_private=true&border_radius=6&show_icons=true&locale=en&cache_seconds=7200&hide_border=true" alt="sadityakumar9211" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadityakumar9211&theme=dracula&border_radius=6&hide_border=true&ring=00bbf9" alt="sadityakumar9211" /></p>
 
 </div>
 
