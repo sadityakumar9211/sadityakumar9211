@@ -78,7 +78,7 @@ If you wanna be extra careful while communicating you can send me an encrypted f
       <img width="40px" src="https://bairesdev.mo.cloudinary.net/blog/2022/09/solidity-enum-example.png?tx=w_1920,q_auto" /> 
     </kbd>
     <kbd>
-      <kbd>Backend</kbd>
+      <kbd>Backend Frameworks</kbd>
       <br>
       <br>
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -169,8 +169,8 @@ If you wanna be extra careful while communicating you can send me an encrypted f
   </p>
 </div>
 
-<h3 align="left">My Web3 🕸 Tech Stack</h3>
-<img align="right" width=500px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<h3 align="center">My Web3 🕸 Tech Stack</h3>
+<img align="right" width=450px height=450px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <ul>
         <li>Chain: <strong>EVM compatible chains</strong></li>
         <li>Smart Contract Development Environment: <strong>Hardhat</strong></li>
