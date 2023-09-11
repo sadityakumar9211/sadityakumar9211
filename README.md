@@ -200,8 +200,6 @@ If you wanna be extra careful while communicating you can send me an encrypted f
 
 <p align="center">&nbsp;<img src="https://github-readme-stats-test-mu.vercel.app/api?username=sadityakumar9211&theme=tokyonight&count_private=true&border_radius=6&show_icons=true&locale=en&cache_seconds=7200&hide_border=true" alt="sadityakumar9211" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sadityakumar9211&theme=dracula&border_radius=6&hide_border=true&ring=00bbf9" alt="sadityakumar9211" /></p>
-
 <h3 align="center">Spotify Playing 🎧</h3> 
 <p align="center">
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=6ikxzro127gmsvtf2ir49yqp4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" />
