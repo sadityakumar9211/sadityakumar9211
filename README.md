@@ -24,7 +24,7 @@
 
 - 👀 I’m interested in _Backend Development_, _Blockchain_, _Cybersecurity_
 
-- 🔭 I’m currently working on [MediChain: Decentralized Medical Record Keeping System](https://medichain.vercel.app)
+- 🔭 I’m currently an ***LFX Mentee*** and actively working on [integrating BDLS (BFT) consensus algorithm to Fabric's ordering service](https://wiki.hyperledger.org/display/CLP/Integrate+new+BFT+protocol+%28BDLS+consensus%29+with+Fabric).
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
