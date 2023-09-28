@@ -1,7 +1,11 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Aditya</h1></summary>
+    <summary>
+      <h1 style="display: inline-block">Hi 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Aditya</h1>
+      <br/>
+      <h3 align="center">A passionate Software Engineer</h3>
+    </summary>
   </ul>
 </div>
 
@@ -9,9 +13,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Heading -->
-<h3 align="center">A passionate Software Developer</h3>
+
 <!-- Sub Heading -->
-<h4 align="center">Crafting Next Level Web Experiences</h4>
+<!-- <h4 align="center">Crafting Next Level Web Experiences</h4> -->
 
 <!-- Github Profile Views-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadityakumar9211&label=Profile%20views&color=0e75b6&style=flat" alt="sadityakumar9211" /> </p>
