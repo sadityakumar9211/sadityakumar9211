@@ -146,6 +146,7 @@ If you wanna be extra careful while communicating you can send me an encrypted f
       <a href="https://hyperledger-fabric.readthedocs.io/en/release-2.3/" target="_blank"><img width="40px" height="40px" src="https://repository-images.githubusercontent.com/66573241/e4a04d80-cd1c-11e9-8af2-786d342820bb" /></a>
       <a href="https://ethereum.org/" target="_blank"><img width="40px" height="40px" src="https://logowik.com/content/uploads/images/ethereum3649.jpg" /></a>
       <a href="https://hardhat.org/" target="_blank"><img width="40px" height="40px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" /></a>
+      <a href="https://github.com/foundry-rs/foundry" target="_blank"><img width="40px" height="40px" src="https://avatars.githubusercontent.com/u/99892494?s=200&v=4" /></a>
       <a href="https://thegraph.com/" target="_blank"><img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHrJUYz9fab9Sw80SHtxSA6-i556yZJ1_1kL7p8bs&s" /></a>
       <a href="https://xmtp.io/" target="_blank"><img width="40px" height="40px" src="https://storage.googleapis.com/simplify-imgs/companies/d07a7740-1f35-46a0-9f6f-a96f813cd049/logo.png" /></a>
       <a href="https://openzeppelin.com/" target="_blank"><img width="40px" height="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYiF7Z92dzVRGbeagECn5xjkV5MIr4vvLL_aNWRtTT3JstwIBaaleY-P13UB_IDKzKQe0&usqp=CAU" /></a>
@@ -175,11 +176,11 @@ If you wanna be extra careful while communicating you can send me an encrypted f
 <img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <ul>
         <li>Chain: <strong>EVM compatible chains</strong></li>
-        <li>Smart Contract Dev Env: <strong>Hardhat</strong></li>
+        <li>Smart Contract Dev Env: <strong>Hardhat, Foundry</strong></li>
         <li>Oracle: <strong>Chainlink</strong></li>
         <li>Network RPC URL: <strong>Alchemy</strong></li>
         <li>Indexing: <strong>The Graph · Moralis · WAGMI</strong></li>
-        <li>Hosting: <strong>IPFS · Fleek · Vercel · GCP</strong></li>
+        <li>Hosting: <strong>IPFS · web3.storage · Vercel · GCP</strong></li>
         <li>Other complementary tools and packages:
             <ul>
                 <li><strong>Ethers, Waffle, Openzeppelin, Apollo, web3uikit</strong></li>
