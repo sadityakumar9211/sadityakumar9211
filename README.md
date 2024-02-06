@@ -2,7 +2,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary>
-      <h1 style="display: inline-block">Hi 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">I'm Aditya</h1>
+      <h1 style="display: inline-block">Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Aditya</h1>
       <br/>
       <h3 align="center">A passionate Software Engineer</h3>
     </summary>
