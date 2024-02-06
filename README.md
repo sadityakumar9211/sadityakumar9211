@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently exploring **Hyperledger & gRPC**
 
-- 🤟 I'm currently learning **Rust**
+- 🤟 I'm currently learning **Microservices in Go**
 
 - 📖 I'm currently in my senior year of college
 
