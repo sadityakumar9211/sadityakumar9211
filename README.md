@@ -30,11 +30,9 @@
 - 
 - ❤️ If you're into distributed computing and making processes faster by concurrent execution, I think we'll get along quite well. 
 
-- 🔭 I’m was ***LFX'23 Mentee*** and worked on [integrating BDLS (BFT) consensus algorithm to Fabric's ordering service](https://wiki.hyperledger.org/display/CLP/Integrate+new+BFT+protocol+%28BDLS+consensus%29+with+Fabric) and currently one of the maintainer of [BDLS repository](https://github.com/hyperledger-labs/bdls) hosted at hyperledger labs. 
-
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently exploring **Hyperledger & gRPC**
+- 🌱 I’m currently exploring **gRPC**
 
 - 🤟 I'm currently learning **Microservices in Go**
 
