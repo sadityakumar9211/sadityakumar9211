@@ -36,7 +36,7 @@
 
 - 🤟 I'm currently learning **Microservices in Go**
 
-- 📖 I'm currently in my senior year of college
+- 📖 I'm a 2024 CS graduate.
 
 - 👨‍💻 Browse through my projects [here](https://adityas.net/#projects)
 
