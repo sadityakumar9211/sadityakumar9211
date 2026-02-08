@@ -20,9 +20,6 @@
 <!-- Github Profile Views-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadityakumar9211&label=Profile%20views&color=0e75b6&style=flat" alt="sadityakumar9211" /> </p>
 
-<!-- GitHub Stats - Trophy -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadityakumar9211&row=1&col=7&theme=onedark" alt="sadityakumar9211" /></a> </p>
-
 <!-- Twitter Follow Button -->
 <p align="left"> <a href="https://twitter.com/saditya9211" target="_blank"><img src="https://img.shields.io/twitter/follow/saditya9211?logo=twitter&style=for-the-badge" alt="saditya9211" /></a> </p>
 
